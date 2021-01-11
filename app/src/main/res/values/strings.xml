@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MovieListDisplay</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="movie_description">Movie Description</string>
+    <string name="undo">undo</string>
+    <string name="confirmation">are you sure</string>
+</resources>
